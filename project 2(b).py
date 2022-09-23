@@ -1,3 +1,5 @@
+# Игра против бота
+
 from random import randint
 
 def input_dat(name):

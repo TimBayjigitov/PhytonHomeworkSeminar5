@@ -1,3 +1,5 @@
+# Игра против бота с "интелектом"
+
 from random import randint
 
 def input_dat(name):
